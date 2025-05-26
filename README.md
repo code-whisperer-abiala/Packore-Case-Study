@@ -1,3 +1,4 @@
+[Packore Packaging Banner](https://github.com/code-whisperer-abiala/Packore-Case-Study/blob/main/Packore%20Packaging.png)
 ### Packore Packaging: Customer & Product Profitability Analysis (2016–2020)
 A data-driven business intelligence project analyzing customer profitability, product margins, and servicing cost breakdowns at a fictional packaging company. This case study was inspired by a classroom scenario and recreated independently for educational and portfolio purposes.
 
